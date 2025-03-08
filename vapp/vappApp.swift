@@ -11,6 +11,7 @@ import SwiftUI
 struct vappApp: App {
     var body: some Scene {
         WindowGroup {
+            Text("change")
             ContentView()
         }
     }
